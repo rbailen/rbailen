@@ -21,3 +21,19 @@ I'm Ramón. I work as a software engineer. I am a tech enthusiast with a passion
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rbailen&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbailen&layout=compact&theme=vue">
 </a>
+
+### Getting in touch
+
+<a href="https://twitter.com/ramromanoficial" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/rbailen/rbailen/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ramonbailensanchez" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/rbailen/rbailen/master/assets/icons/linkedin.svg"
+  /></a>
