@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ramón. I work as a software engineer. I am a tech enthusiast with a passion for learning and facing challenges. In my spare time I do open-sourcing and practice sports in general.
+I'm Ramón. I work as a software engineer. I am a tech enthusiast with a passion for learning and facing challenges. In my spare time, I do open source and practice sports.
 
 <a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rbailen&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
